@@ -18,7 +18,7 @@
 	],
 	"main": "./dist/main.js",
 	"typings": "./dist/@types/main",
-	"author": "dylanvorster",
+	"author": "singhsoldier13",
 	"scripts": {
 		"build:ts": "webpack",
 		"build:ts:prod": "cross-env NODE_ENV=production webpack",
